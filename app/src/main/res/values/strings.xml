@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Parcial1</string>
+    <string name="company_text">Company Name</string>
+    <string name="summary_text">Summary</string>
+    <string name="accounts_text">Accounts</string>
+    <string name="incomes_text">Incomes</string>
+    <string name="expenses_text">Expenses</string>
+    <string name="stock">Stock</string>
+</resources>
